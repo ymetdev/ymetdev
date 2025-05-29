@@ -20,6 +20,9 @@ and when I'm not coding, you’ll find me **playing games, making music, or vibi
 
 ---
 
+```markdown
+---
+
 ## 🛠 Tech Stack & Interests
 
 ```txt
