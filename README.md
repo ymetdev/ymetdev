@@ -22,7 +22,7 @@ and when I'm not coding, you’ll find me **playing games, making music, or vibi
 
 ## 🛠 Tech Stack & Interests
 
-``txt
+```txt
 Full Stack     : React, Next.js, Node.js, Express, MySQL, MongoDB  
 Automation     : Playwright, Selenium, PyAutoGUI  
 ML & AI        : Python, Scikit-Learn, Pandas, TensorFlow (basic)  
